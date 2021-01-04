@@ -1,0 +1,10 @@
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\bin\Debug\AantonenSQL.exe.config
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\bin\Debug\AantonenSQL.exe
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\bin\Debug\AantonenSQL.pdb
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.csprojAssemblyReference.cache
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.Form1.resources
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.Properties.Resources.resources
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.csproj.GenerateResource.cache
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.csproj.CoreCompileInputs.cache
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.exe
+C:\Users\Beheerder\source\repos\AantonenSQL\AantonenSQL\obj\Debug\AantonenSQL.pdb
